@@ -8,7 +8,10 @@ elsif message == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
 elsif message == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
-
+elsif message == "what did you eat today".upcase
+  return "no, not since 1938!".upcase
+else message == "WHAT?"
+  return "no, not since 1938!".upcase
 
   end
 end
