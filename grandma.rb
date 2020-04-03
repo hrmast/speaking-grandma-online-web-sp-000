@@ -3,7 +3,7 @@ def speak_to_grandma(message)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 if message == "I LOVE YOU GRANDMA!"
-  return "I LOVE YOU PUMPKIN!"
+  return "I LOVE YOU TOO PUMPKIN!"
 elsif message.downcase == "i love you grandma!"
 
 
