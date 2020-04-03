@@ -4,9 +4,10 @@ def speak_to_grandma(message)
 # HUH?! SPEAK UP, SONNY!
 if message == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
-elsif message.downcase == "Hi Nana, how are you?"
+elsif message == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
-elsif
+elsif message == "Hi!"
+  return "HUH?! SPEAK UP, SONNY!"
 
 
   end
