@@ -3,6 +3,7 @@ def speak_to_grandma(message)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 if message.upcase == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU PUMPKIN!"
 
 end
 # unless you shout it (type in all capitals).
